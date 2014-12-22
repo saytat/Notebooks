@@ -10,6 +10,8 @@
 
 + Photo idea: after watching Tiane Doan na Champasaak's photos of Kolkata (http://collectordaily.com/tiane-doan-na-champassak-kolkata/): Photos of - i. Middle calss life, ii. Lower class life, iii. Outdated professions, trades, crafts being created. Mix i and ii.
 
+Continued.....shoot like a maniac in Kolkata. Zaid and his mother. Rana kaku's sarod class. Sukanya and the child. Phool dida, Mam
+
 + From letter to myself. Origin date: Sept-16,2014: (1. Bind myself to technology, become a techno-worker. Primarily software, alternatively hardware, even agriculture.
 
 2. The world has to be changed, but the change won't be done in my lifetime, not even in one village perhaps, but it will. Faith in an unbound future.
@@ -20,3 +22,5 @@ The point is to learn today for a just fight tomorrow.
 4. There is no truth that is not to be found in distractions. There is no truth independent of the regular distraction prone life. "Know Thyself" the command stands. Stop bulshitting yourself. Even when mimicking other life forms, not lose sight of the basics.  
 
 5. Make a plan for regular life, keep on revising it, but make a plan.)
+
+ 
