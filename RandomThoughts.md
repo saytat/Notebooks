@@ -23,4 +23,12 @@ The point is to learn today for a just fight tomorrow.
 
 5. Make a plan for regular life, keep on revising it, but make a plan.)
 
++ A dear friend once said, the task of critique should be to make simple what is complicated; and to complicate the aparently simple. 
+While so much is being said about the freedom, power and responsbility of image making, I suddenly thought what happens if photography tries out critique's oversized shoes? 
+
+All photos - except one - taken at Berlin, November 9 2014.
+
+
+
+
  
