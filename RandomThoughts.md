@@ -36,6 +36,8 @@ All photos - except one - taken at Berlin, November 9 2014.
 
 + Islamic (at lease some parts) extremism has more utopian horizon. The establishment of ummah by destruction of all opposition. The cleansing of the world, total unity. In this sense it is totalitarian. It demands total identification.
 
++ But not to forget, secular liberalism - soft or hard - is also a form a totalitarianism, much more subtle, the material its totalitarianism is commodity exchange. 
+
 
 
 
