@@ -40,6 +40,7 @@ All photos - except one - taken at Berlin, November 9 2014.
 
 + Berger writes that photographs have been used by people as pockets of resistence (my words) against passage of historical time, a historical time that seeks to destroy all moments/eternity of transcendence. 
 2 thoughts on reading this: how travel photos are used by paulina to recapture the lost time, how it makes her sad.
+Its as if we are so greedy to take those photos - from trips, kampinos to ladakh, to take them and keep them because we fear that living the memory of those moments will be impossible under historical time, the time of our lives...
 
 
 
