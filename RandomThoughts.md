@@ -30,6 +30,12 @@ All photos - except one - taken at Berlin, November 9 2014.
 
 + সরাব হুড়ার ছবি দেখছিলাম। পাতি। মনে হল সত্যি কি সস্মিত ভারতের কত মানুষ। কি ভয়ঙ্কর শোষিত। এই সব জানা কথা। কিন্তু ছবিগুলো সত্যি ভয়ঙ্কর আঘাত দেয়। আগে এরম হয়নি। কঙ্কালসার নারী পুরুষ পাথর ভাংছে জেন অনন্য গ্রহে। এই ধূসর মরুভূমি ভ্রমণের ইচ্ছা জাগায় না। ভয় লাগে। এই ভূমি সভয়ঙ্কর সুন্দর নয়, সুধুই ভয়ঙ্কর। গ্রীষ্ম, ৫০ সেন্তিগ্রাতে। অভুক্ত, রুগ্ন নর নারী পাথর কেটে চলেছে, কেতে চলেছে। এই ছবিগুলোর মাধ্যমে ডকু ঘরানার ছবিতোলা স্বারথক। শরাবের ছবিতে জা দেখলাম, দেখে জা অনুভব করলাম, তা কন লেখা পরে - বিশেষত তথ্য ভিত্তিক তেলখা পরে অনুভব করতে পারতাম না। এখানে সুধু শরাবের জয় না, ফটোগ্রাফিr জয়। 
 
++ The rise of extremism is the wrong answer to the right event. The event is the crisis of liberal modernity. 
+
++ RSS, Front National, Neo-Nazis are reactionary extremist movements, since they seek to recover some lost homeland, lost unity, lost tribe. The nostalgia is for tribal unity, inter-tribe and tribe to land. To homeland.
+
++ Islamic (at lease some parts) extremism has more utopian horizon. The establishment of ummah by destruction of all opposition. The cleansing of the world, total unity. In this sense it is totalitarian. It demands total identification.
+
 
 
 
