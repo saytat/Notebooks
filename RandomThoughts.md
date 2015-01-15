@@ -38,6 +38,9 @@ All photos - except one - taken at Berlin, November 9 2014.
 
 + But not to forget, secular liberalism - soft or hard - is also a form a totalitarianism, much more subtle, the material its totalitarianism is commodity exchange. 
 
++ Berger writes that photographs have been used by people as pockets of resistence (my words) against passage of historical time, a historical time that seeks to destroy all moments/eternity of transcendence. 
+2 thoughts on reading this: how travel photos are used by paulina to recapture the lost time, how it makes her sad.
+
 
 
 
