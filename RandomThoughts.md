@@ -42,6 +42,10 @@ All photos - except one - taken at Berlin, November 9 2014.
 2 thoughts on reading this: how travel photos are used by paulina to recapture the lost time, how it makes her sad.
 Its as if we are so greedy to take those photos - from trips, kampinos to ladakh, to take them and keep them because we fear that living the memory of those moments will be impossible under historical time, the time of our lives...
 
++ from the dispatch I will write about Sandakphu trip or Sherpa Lakpa:
+
+As we crossed Mall, wailing sounds of a stringed instrument drafted from somewhere. 2 street musicians with Nepali lute playing. Lapka stopped to give them 10 ruppes. I was too preoccupied with the tierdness of my body to listen properly or make a small donation. I would regret later. But the easy generosity of Lakpa touched me. Here's a man who just lost 2000 ruppes, a considerable sum.
+
 
 
 
