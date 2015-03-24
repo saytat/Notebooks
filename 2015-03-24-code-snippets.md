@@ -35,4 +35,4 @@ CSS:
       /*bottom: 50%;
       right: 70%;*/
       }
-1: Since the display type is inline-block, the blue box is coming to the right side of 
+ 
