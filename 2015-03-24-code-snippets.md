@@ -15,7 +15,7 @@ HTML:
 CSS:
 
     #red {
-      display: inline-block;
+      display: inline-block; [^r1]
       position: relative; //first block is positioned relative w.r.t. container
       background-color: red;
       width: 40%;
@@ -35,4 +35,4 @@ CSS:
       /*bottom: 50%;
       right: 70%;*/
       }
- 
+ [r1]: This is the footnote
