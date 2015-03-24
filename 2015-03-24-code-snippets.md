@@ -15,7 +15,7 @@ HTML:
 CSS:
 
     #red {
-      display: inline-block; [^r1]
+      display: inline-block; 1
       position: relative; //first block is positioned relative w.r.t. container
       background-color: red;
       width: 40%;
@@ -27,7 +27,7 @@ CSS:
     }
     #blue {
       display: inline-block;
-      position: absolute; //since display type is inline-block, the blue box is starting after red box ends, even though the red box is not visible. Why is the red box not visible???
+      position: absolute; //since display type is inline-block, the blue box is coming inline, starting after red box ends, even though the red box is not visible. Why is the red box not visible???
       background-color: blue;
       width: 40%;
       height: 30%;
@@ -35,4 +35,4 @@ CSS:
       /*bottom: 50%;
       right: 70%;*/
       }
- [r1]: This is the footnote
+1: Since the display type is inline-block, the blue box is coming to the right side of 
