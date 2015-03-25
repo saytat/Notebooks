@@ -90,4 +90,85 @@
                 }
       }
 
+**html**: same
+
+**css**: 
+
+          ul {
+            list-style: none;
+            font-family: sans-serif;
+            font-size: 3em;
+          }
+          
+          #first {
+            display: inline-block;
+            color: blue;
+          }
+          
+          a {
+            text-decoration: none;
+          }
+          
+          #first::before {
+            content: "design";
+            position: absolute;
+            display: inline-block;
+            background: transparent;
+            color:white;
+            opacity: 0.01;
+          }
+          
+          #first:hover {
+                          animation-name: loop;
+                    animation-duration: 100ms;
+                    animation-iteration-count: infinite;
+                    animation-timing-function: step-in-out;
+                    animation-direction: alternate;
+                    animation-fill-mode: forwards;
+                    }
+          
+          @keyframes loop {
+                  33.3% {
+                    color: black;
+                    background: red;
+                  }
+                  66.6% {
+                    color: red;
+                    background: black;
+                  }
+            
+                  86% {
+                    color: white;
+                    background: blue;
+                  }
+          }
+          
+          #first:before {
+                    animation-name: flip;
+                    animation-duration: 3s;
+                    animation-iteration-count: infinite;
+                    animation-timing-function: step-start;
+          }
+          
+          /*#first:hover:before {
+                          animation-name: loop;
+                    animation-duration: 100ms;
+                    animation-iteration-count: 1;
+                    animation-timing-function: step-in-out;
+                    animation-direction: alternate;
+                    animation-fill-mode: forwards;
+                    }  not working */
+          
+          
+          
+          
+          
+          @keyframes flip {
+            
+                  50% {
+                    color: red;
+                    background: white;
+                    opacity: 1;
+                  }
+          }
 
