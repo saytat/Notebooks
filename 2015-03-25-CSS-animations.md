@@ -37,7 +37,7 @@
                     animation-duration: ; //10ms, 1s etc. in seconds and ms only.
                     animation-timing-function: ; //ease, ease-in,ease-out,ease-in-out,linear, step-start,step-end, cubic-bezier(0.1, 0.7, 1.0, 0.1), steps(4,end)
                     animation-iteration-count:1 ;//numbers or __infinite__
-					animation-direction: normal;                    
+					animation-direction: normal;// keywords available: normal, reverse, alternate, alternate-reverse, initial, inherit.              
             }
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
