@@ -39,6 +39,7 @@
                     animation-iteration-count:1 ;//numbers or __infinite__
 					animation-direction: normal;// keywords available: normal, reverse, alternate, alternate-reverse, initial, inherit.
                     animation-delay: 4s; //delays the animation start time, can have negative value.
+                    animation-fill-mode: forwards;//forwards, backwards. If forwards then the value of the first keyframe is set before animation starts. If backwards then the value of the last keyframe is set after animation stops.
             }
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
