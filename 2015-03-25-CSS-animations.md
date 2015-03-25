@@ -42,4 +42,51 @@
                     animation-fill-mode: forwards;//forwards, backwards. If forwards then the value of the first keyframe is set before animation starts. If backwards then the value of the last keyframe is set after animation stops.
             }
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+##Example 1
+
+**html**
+
+    <ul>
+      <li><p>learn <span id="first">coding</span></p></li>
+      <li><p>make <span>things</span></p></li>
+    </ul>
+    
+**css**
+
+ul {
+  list-style: none;
+  font-family: sans-serif;
+  font-size: 3em;
+}
+
+#first {
+  color: blue;
+}
+
+#first {
+     			animation-name: flip;
+          animation-duration: 4s;
+          animation-iteration-count: infinite;
+          animation-timing-function: linear;
+          animation-direction: alternate;
+          animation-delay: 2s;
+          animation-fill-mode: forwards;
+          }
+
+@keyframes flip {
+        33.3% {
+          color: black;
+          background: red;
+        }
+        66.6% {
+          color: red;
+          background: black;
+        }
+  
+        86% {
+          color: white;
+          background: blue;
+        }
+}
+
+
