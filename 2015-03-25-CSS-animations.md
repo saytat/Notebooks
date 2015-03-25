@@ -34,7 +34,7 @@
 3. Set animation parameters:
 			html_element {
             		animation-name: ;
-                    animation-duration: ;
+                    animation-duration: ; //10ms, 1s etc. in seconds and ms only.
                     animation-timing-function: ; //ease, ease-in,ease-out,ease-in-out,linear, step-start,step-end, cubic-bezier(0.1, 0.7, 1.0, 0.1), steps(4,end)
             }
 
