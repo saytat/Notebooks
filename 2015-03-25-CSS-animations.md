@@ -53,40 +53,41 @@
     
 **css**
 
-ul {
-  list-style: none;
-  font-family: sans-serif;
-  font-size: 3em;
-}
-
-#first {
-  color: blue;
-}
-
-#first {
-     			animation-name: flip;
-          animation-duration: 4s;
-          animation-iteration-count: infinite;
-          animation-timing-function: linear;
-          animation-direction: alternate;
-          animation-delay: 2s;
-          animation-fill-mode: forwards;
-          }
-
-@keyframes flip {
-        33.3% {
-          color: black;
-          background: red;
-        }
-        66.6% {
-          color: red;
-          background: black;
-        }
-  
-        86% {
-          color: white;
-          background: blue;
-        }
-}
+      ul {
+              list-style: none;
+              font-family: sans-serif;
+              font-size: 3em;
+      }
+      
+      #first {
+              color: blue;
+      }
+      
+      #first {
+                animation-name: flip;
+                animation-duration: 4s;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                animation-direction: alternate;
+                animation-delay: 2s;
+                animation-fill-mode: forwards;
+                }
+      
+      @keyframes flip {
+                33.3% {
+                  color: black;
+                  background: red;
+                }
+                
+                66.6% {
+                  color: red;
+                  background: black;
+                }
+      
+                86% {
+                  color: white;
+                  background: blue;
+                }
+      }
 
 
