@@ -3,6 +3,8 @@
 **Core Idea**
 Life as travel, even when not travelling. Birthday as a train station (not airport - they are heidius) to alight on, not a temporary destination, but the station to step into another place. (it can also be the station you missed by sleeping through the night).
 
+THE END: and now, shut down this screen and leave the screen world.
+
 **Elements**
 +	Train and cycle as metaphors.
 +	Poems and rhymes as quotations. (Look up that fb page with polish quotes). Use Szymborszka
