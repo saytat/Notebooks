@@ -13,4 +13,6 @@ Thought Vectors:
 
 + Not VR, this. Is there a social media that is voice based, aural, not visual, and not only for the blind?
 
++ Marshall McLuhall writes in his essay "Challenges..." that artists are the only ones who are capable of engaging and negotiating with new technologies; they are capable because they are the only ones who are fully sensient to the present.
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
