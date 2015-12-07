@@ -21,5 +21,11 @@ Thought Vectors:
 
 + ["Trying to mimic the acceleration of our world with frantic content publishing will not participate in people making sense of our reality or feeling more empathetical towards one another. This is where interactivity can make a difference. By showing us the intricate mechanics of the world, by giving people the power of choice, interactive storytellers produce experiences that are more demanding but also more rewarding than a thousand articles."](https://medium.com/reinventing-storytelling/what-is-interactive-storytelling-46bfdd2a8780#.et6j5mqda)
  -  Choice is not a good word. Or put differently, choice is not nearly enough. What choice should lead to is analysis from multiple perspectives. If the choice of following multiple persopectives is inbuilt into the medium, then the experiencer needs to explore the multiplicity. As an aside, we live in a world whre there are multiplicity of everything; however only part - a very small part form an actual multiplicity; most multiplicities are a surface effect - but that does not mean they are any less real; or that they lead to any less real consequences. 
+ 
++ Reasearch areas:
+- Interaction Design in games - especially socially srious games - both design and play
+- Multimodal Interaction design - theories, applications in mobile context - connected with AR and VR
+- Interaction design of objects in Urban or social context; moving beyond the personal. 
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
