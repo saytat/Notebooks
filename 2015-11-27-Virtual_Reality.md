@@ -11,4 +11,6 @@ http://www.theverge.com/a/virtual-reality/interview
 Thought Vectors:
 + Can VR deliver a less distracting medium for reading or learning? The hyperlink medium is highly distractive, disruppting older reading habits. Can VR provide a more immersive, less distractive environment? Just think, even podcasts provide more immersive experience than the hyperlink text/search based information capture.
 
++ Not VR, this. Is there a social media that is voice based, aural, not visual, and not only for the blind?
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
