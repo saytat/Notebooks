@@ -15,4 +15,8 @@ Thought Vectors:
 
 + Marshall McLuhall writes in his essay "Challenges..." that artists are the only ones who are capable of engaging and negotiating with new technologies; they are capable because they are the only ones who are fully sensient to the present.
 
++ I strongly fed the need for greater complexity in print/web media coverage of Paris attacks. If instead of instant opinion pieces (from various political spectrum) masquerading as journalism there would be more insightful, multi-perspective, persuasive (not propagandist) and most importantly slow content created.
+
++ Exactly. In times of opinion pieces masquerading as analysis; propaganda as news and analysis getting more and more entrenched in partisanship; what we urgently need is “content” (in lieu of a better word) that is more multi-perspective, complex and actually provokes thinking not news consumption. The best analysis or written essays have been producing this effect for centuries; but perhaps the interactive medium can also be designed in ways that will facilitate such engagement.
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
