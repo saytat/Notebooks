@@ -27,5 +27,11 @@ Thought Vectors:
 - Multimodal Interaction design - theories, applications in mobile context - connected with AR and VR
 - Interaction design of objects in Urban or social context; moving beyond the personal. 
 
++ App idea: a VR film made of stills, audio. VR film inspired by La Jetee. How about VR cinnegrams. or simply VR GIFs? Using moving parts inside a still image as visiual cues for changing scene.
+
++ Design research topic: how to make intutive, effective cues inside VR? both visual and aural; maybe haptic??
+
++ Philosophical musing: what's the point of making photorealistic VR that just seeks to create the illusion of reality? Shouldn't we be creating alternate realities - realities that look and feel different as well??
+ - That gives me an idea: how about a flatworld experience in VR? The (Gamoway ? ) universe?
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
