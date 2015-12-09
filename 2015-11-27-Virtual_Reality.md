@@ -32,6 +32,10 @@ Thought Vectors:
 + Design research topic: how to make intutive, effective cues inside VR? both visual and aural; maybe haptic??
 
 + Philosophical musing: what's the point of making photorealistic VR that just seeks to create the illusion of reality? Shouldn't we be creating alternate realities - realities that look and feel different as well??
- - That gives me an idea: how about a flatworld experience in VR? The (Gamoway ? ) universe?
+ - That gives me an idea: how about a flatworld experience in VR? The (Gamoway ? ) universe? or Mr. Tompkins universe?
+ 
+ + Next research topic:
+ 
+- Creating menu systems in VR - visual, sonic. How to interact with menus?
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
