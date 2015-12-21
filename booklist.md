@@ -52,6 +52,15 @@ Booklist for Tunir:
 + Tonio Kroger
 + G.
 
+Sci-Fi booklist:
+Woman on the Edge of Time - Marge Piercy
+The Female Man - Joanna Russ
+The Player of Games by Iain M Banks
+China Mountain Zhang by Maureen F McHugh
+Mars Trilogy - Kim Stanley Robinson
+Europe in Autumn by Dave Hutchinson
+
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
