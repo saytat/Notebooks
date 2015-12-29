@@ -42,6 +42,10 @@ Thought Vectors:
 
 - Most web/software design focuses on making interactions easier and faster. The tasks need to be completed sooner. The holy grail of UX,UI,design is absolute transparency. Why? 
 - Lets say there are 2 catagories of applications - ones for selling products or services; the other for disseminating information. Of course the catagories are not monolithic, they intermix in almost all apps. (the 3rd catagory is productivity app, but that's a different beast). Now in the first type - apps for selling products and services - the goal of course is to minimize friction, speed up the intended interactions. In the second type - information dessimination - the goal is to present the information (text, video, stills, sound) in the most legible manner possible, to retreat behind the content. 
-- 
+- Is game design in a way not antethesis of app design. That it seeks to create puzzles instead of gunning for clarity?
+- THE QUESTION IS: what kind of apps, and in what way, i.e. how can be made tools of contemplation. Can be made aids for thinking? Does Data Visualization somhow address this aspect - of contemplation? But then productivity apps strive to do this. Present information that can be pondered. Hence the QUESTION needs to be re-phrased. Service apps DOES address the task of creating digital tools of deliberation. Surely various science/tech simulation apps do a great job of it.
+
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
