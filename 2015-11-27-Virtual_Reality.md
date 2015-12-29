@@ -45,6 +45,7 @@ Thought Vectors:
 - Is game design in a way not antethesis of app design. That it seeks to create puzzles instead of gunning for clarity?
 - THE QUESTION IS: what kind of apps, and in what way, i.e. how can be made tools of contemplation. Can be made aids for thinking? Does Data Visualization somhow address this aspect - of contemplation? But then productivity apps strive to do this. Present information that can be pondered. Hence the QUESTION needs to be re-phrased. Service apps DOES address the task of creating digital tools of deliberation. Surely various science/tech simulation apps do a great job of it.
 
+AN EXAMPLE of Contemplative design: http://adarkroom.doublespeakgames.com/
 
 
 
