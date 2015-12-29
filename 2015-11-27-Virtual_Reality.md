@@ -47,6 +47,8 @@ Thought Vectors:
 
 AN EXAMPLE of Contemplative design: http://adarkroom.doublespeakgames.com/
 
+- And THIS: http://www.theguardian.com/technology/2015/oct/13/video-games-digital-storytelling-naomi-alderman
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
