@@ -10,6 +10,10 @@ In the summer of 2006 Sigur Ros returned from World Tour to Iceland, to play fre
 I crawl out among stones. Here and now." (Tomas Tranströmer) Only (n aftertaste?)  pale geaming of quiet images remain.
 Why try to capture -so stubornly - the vastness of landscapes in the measure of a few inches?
 
+
+2nd image:
+we used to dream of blue green sea. At eraly morning we would gaze hard at the distance trying to catch a hint of cobalt in the earthly - and to our young eyes, utterly ordinary -  colors of the Bay of Bengal. The lure of blue was the pull of distance. Here, everything was dusty and warm, even the sea. Elsewhere, the waters blue or green. 
+
 Images from Heima (at home) by Sigur Rós will open the series. 
 
 Poem by Tomas Tranströmer:
