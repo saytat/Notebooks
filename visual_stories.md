@@ -8,7 +8,7 @@ _wanderlust
 
 In the summer of 2006 Sigur Ros returned from World Tour to Iceland, to play free improptu gigs at far flung places. Heima in Icelanding means at home. Being grounded in Warsaw, on a freezing January evening I immerse myself in / put on Sigur Ros's Heima. A boundless landscape encompassed in 17in screen. The layered music spill over from closed back headphones. Presence takes effort. When it takes place, the window vanishes. Being trasported. Yes, that's what happens at those odd moments. Untill it ends. "I am whistled back from the distance,
 I crawl out among stones. Here and now." Only an aftertaste, the pale geamings of quiet images remain.
-Why do we try to capture the vastness of landscapes in the 
+Why do we try to capture -so stubornly - the vastness of landscapes in the measure of a few inches?
 
 Images from Heima (at home) by Sigur Rós will open the series. 
 
