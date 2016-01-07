@@ -6,9 +6,10 @@ _lookingout
 _thewindow
 _wanderlust
 
-In the summer of 2006 Sigur Ros returned from World Tour to Iceland, to play free improptu gigs at far flung places. Heima in Icelanding means at home. Being grounded in Warsaw, on a freezing January evening I immerse myself in / put on Sigur Ros's Heima/that film. A boundless landscape encompassed in 17in screen. The layered music spill over from closed back headphones. Presence takes effort. When it takes place, the window vanishes. Being trasported. Yes, that's what happens at those odd moments. Untill it ends. "I am whistled back from the distance,
-I crawl out among stones. Here and now." (Tomas Tranströmer) Only (n aftertaste?)  pale geaming of quiet images remain.
-Why try to capture -so stubornly - the vastness of landscapes in the measure of a few inches?
+2006, 
+Having toured the world over, Sigur Ros returned home to play a series of free, unannounced concerts in Iceland. Heima in Icelanding means "at home". Being grounded in Warsaw, on a freezing January evening I put on Heima. A boundless landscape held within seventeen inchs. The layered music spill over from closed back headphones. Presence takes effort. When it takes place, the window vanishes. Being trasported. Yes, that's what happens at those odd moments. Untill it ends. "I am whistled back from the distance,
+I crawl out among stones. Here and now." (Tomas Tranströmer) Later, only an aftertaste, the shuffling of images.
+Why try to capture - so stubornly - the vastness of landscapes in the measure of a few inches?
 
 
 2nd image:
