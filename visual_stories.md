@@ -12,7 +12,7 @@ Why try to capture -so stubornly - the vastness of landscapes in the measure of 
 
 
 2nd image:
-we used to dream of blue green sea. At eraly morning we would gaze hard at the distance trying to catch a hint of cobalt in the earthly - and to our young eyes, utterly ordinary -  colors of the Bay of Bengal. The lure of blue was the pull of distance. Here, everything was dusty and warm, even the sea. Elsewhere, the waters blue or green. 
+we used to dream of blue green sea. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the earthly - and to our young eyes, utterly ordinary -  colors of Bay of Bengal. The lure of blue was the pull of distance. Here, everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on TV, cinema and National Geographic magazine - the waters blue or green. (Like her eyes, from the name of a fat classic - a pair of blue eyes. My best friend spend his pocket money in buying the thick tome of Anna Karenina. Why did you buy this book? Because of the image on its cover.)  
 
 Images from Heima (at home) by Sigur Rós will open the series. 
 
