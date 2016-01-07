@@ -7,10 +7,10 @@ _thewindow
 _wanderlust
 
 2006, 
-Having toured the world over, Sigur Ros returned home to play a series of free, unannounced concerts in Iceland. Heima in Icelandic means "at home". 
-Being grounded in Warsaw I put on Heima one freezing January evening. A boundless landscape held within seventeen inch. The layered music spill over from closed back headphones. Presence takes effort. When it takes place, the window vanishes. Being transported. Yes, that's what happens at those odd moments. Until it ends. "I am whistled back from the distance,
+"Having toured the world over, Sigur Ros returned home to play a series of free, unannounced concerts in Iceland." Heima in Icelandic means "at home". 
+Being grounded in Warsaw I put on Heima one freezing January evening. A boundless landscape held within seventeen inch. The layered music spill over from closed back headphones. Presence takes gentle effort. When it takes place, the window vanishes. Being transported. Yes, that's what happens at those odd moments. Until it ends. "I am whistled back from the distance,
 I crawl out among stones. Here and now." (Tomas Tranströmer) Later, only an aftertaste, the shuffling of images.
-Why try to capture - so stubbornly - the vastness of landscapes in the measure of a few inches?
+Why try to capture - so stubbornly - the vastness of landscapes in the measure of a few inches, in the curve of your palm?
 
 2nd image:
 we used to dream of blue green sea. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the earthly - and to our young eyes, utterly ordinary -  colors of Bay of Bengal. The lure of blue was the pull of distance. Here, everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on TV, cinema and National Geographic magazine - the waters blue or green. (Like her eyes, from the name of a fat classic - a pair of blue eyes. My best friend spend his pocket money in buying the thick tome of Anna Karenina. Why did you buy this book? Because of the image on its cover.)  
