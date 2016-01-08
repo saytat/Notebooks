@@ -17,7 +17,10 @@ We used to dream of blue green seas. At early morning we would gaze hard at the 
 
 Image 3: Boat in blue sea
 
+The water stays/remains cold, always. When I first saw the Baltic, it was steel grey under a monochrome sky. Sunlight broke through towards afternoon, the transfiguring brightness dare I say felt celestial. Its so fleeting. The light, here in the northmost sea save one. "I belong" Pawel Huelle writes "to the culture of the north, which is sad, melancholy, nostalgic, bleak; there is not much light - hence several of my characters search for the light, and ultimately disappear into it."
 
+Pawel Huelle: 
+I wrote them around the age of fifty, in the realisation that I am a man of the Baltic - all the stories are set in my own native region, Gdansk and the sorrounding coast, except for 'Oland' which is set on a Swedish island, but still in the Baltic Sea. And that means I belong to the culture of the north, which is sad, melancholy, nostalgic, bleak; there is not much light - hence several of my characters search for the light, and ultimately disappear into it. This is the culture of herrings, potatoes and vodka, not wine, and this is the place that has shaped me, like it or not
 
 
 Images from Heima (at home) by Sigur Rós will open the series. 
