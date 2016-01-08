@@ -13,7 +13,7 @@ I crawl out among stones. Here and now." (Tomas Tranströmer) Later, only an aft
 Why try to capture - so stubbornly - the vastness of landscapes in the measure of a few inches, in the curve of your palm?
 
 2nd image:
-we used to dream of blue green seas. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the muddy - and to our young eyes, utterly ordinary -  hues of Bay of Bengal. The lure of blue was the pull of distance. Here everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on TV, cinema and National Geographic magazine - the waters blue or green. "The world is blue at its edges and in its depths. This blue is the light that got lost. Light at the blue end of the spectrum does not travel the whole distance from the sun to us. It disperses among the molecules of the air, it scatters in water." (Rebecca Solnit). 
+We used to dream of blue green seas. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the muddy - and to our impatient eyes, utterly ordinary -  hues of Bay of Bengal. The lure of blue was the pull of distance. Here everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on cinema, TV, books and National Geographic magazine - the waters blue or green. "The world is blue at its edges and in its depths. This blue is the light that got lost. Light at the blue end of the spectrum does not travel the whole distance from the sun to us. It disperses among the molecules of the air, it scatters in water." (Rebecca Solnit). 
 
 Images from Heima (at home) by Sigur Rós will open the series. 
 
