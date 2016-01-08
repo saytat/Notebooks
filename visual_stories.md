@@ -15,9 +15,16 @@ Why try to capture - so stubbornly - the vastness of landscapes in the measure o
 2nd image:
 We used to dream of blue green seas. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the muddy - and to our impatient eyes, utterly ordinary -  hues of Bay of Bengal. The lure of blue was the pull of distance. Here everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on cinema, TV, books and National Geographic magazine - the waters blue or green. "The world is blue at its edges and in its depths. This blue is the light that got lost. Light at the blue end of the spectrum does not travel the whole distance from the sun to us. It disperses among the molecules of the air, it scatters in water." (Rebecca Solnit). 
 
-Image 3: Boat in blue sea
+Image 3: Boat in blue bay
 
-The water stays/remains cold, always. When I first saw the Baltic, it was steel grey under a monochrome sky. Sunlight broke through towards afternoon, the transfiguring brightness dare I say felt celestial. Its so fleeting. The light, here in the northmost sea save one. "I belong" Pawel Huelle writes "to the culture of the north, which is sad, melancholy, nostalgic, bleak; there is not much light - hence several of my characters search for the light, and ultimately disappear into it."
+
+
+Image ? (has to be baltic):
+
+The water stays/remains cold, always. When I first saw the Baltic, it was steel grey under a monochrome sky. Sunlight broke through towards afternoon, the transfiguring brightness dare I say felt celestial. Its so fleeting. The light, the warmth. 
+
+
+here in the northmost sea save one. "I belong" Pawel Huelle writes "to the culture of the north, which is sad, melancholy, nostalgic, bleak; there is not much light - hence several of my characters search for the light, and ultimately disappear into it."
 
 Pawel Huelle: 
 I wrote them around the age of fifty, in the realisation that I am a man of the Baltic - all the stories are set in my own native region, Gdansk and the sorrounding coast, except for 'Oland' which is set on a Swedish island, but still in the Baltic Sea. And that means I belong to the culture of the north, which is sad, melancholy, nostalgic, bleak; there is not much light - hence several of my characters search for the light, and ultimately disappear into it. This is the culture of herrings, potatoes and vodka, not wine, and this is the place that has shaped me, like it or not
