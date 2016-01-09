@@ -15,8 +15,21 @@ Why try to capture - so stubbornly - the vastness of landscapes in the measure o
 2nd image:
 We used to dream of blue green seas. At early morning we would gaze hard at the distance trying to catch a hint of cobalt in the muddy - and to our impatient eyes, utterly ordinary -  hues of Bay of Bengal. The lure of blue was the pull of distance. Here everything was dusty and warm, even the sea. Elsewhere - the places glimpsed on cinema, TV, books and National Geographic magazine - the waters blue or green. "The world is blue at its edges and in its depths. This blue is the light that got lost. Light at the blue end of the spectrum does not travel the whole distance from the sun to us. It disperses among the molecules of the air, it scatters in water." (Rebecca Solnit). 
 
-Image 3: Boat in blue bay
-It never gets dark, even at night. The sky stays faintly blue, as if gently backlit.
+Image 3: Blue boat
+We pitched camp (illegally) on a grassy slope near the beach. We had the bay to ourselves. 
+
+Listen, the last primary color to be named was blue. 
+Ancient Greeks did not have a word for blue.
+Neither did Vedic Sanskrit, Hebrew, Chinease.
+For Homer, the sea was wine dark, not blue.
+Some say words affect the way we see.
+
+Do you see the same blues as I do? Write to me...
+Puck Bay, Hel Peninsula, Summer 2015
+
+Image 4: Sign posts
+I wrote to him: it never gets dark, even at night. The sky stays faintly blue, as if gently backlit. The signposts announce trails leading (to?).
+
 
 
 Image ? (has to be baltic):
