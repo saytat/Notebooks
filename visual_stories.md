@@ -6,6 +6,11 @@ _lookingout
 _thewindow
 _wanderlust
 
+BLUE: "Blue says outrageously and absurdly I'm yours or you'r mine and no other can judge us."  John Berger.
+
+
+
+
 2006, 
 "Having toured the world over, Sigur Ros returned home to play a series of free, unannounced concerts in Iceland." Heima in Icelandic means "at home". 
 Being grounded in Warsaw I put on Heima one freezing January evening. A boundless landscape held within seventeen inch. The layered music spill over from closed back headphones. Presence takes gentle effort. When it takes place, the window vanishes. Being transported. Yes, that's what happens at those odd moments. Until it ends. "I am whistled back from the distance,
@@ -28,7 +33,7 @@ Do you see the same blues as I do? Write to me...
 Puck Bay, Hel Peninsula, Summer 2015
 
 Image 4: Sign posts
-I wrote to him: it never gets dark, even at night. The sky stays faintly blue, as if gently backlit. The signposts announce trails leading (to?).
+I wrote to him: it never gets real dark, even at night. The sky stays faintly blue, as if gently backlit. The signposts announce trails leading onwards, in all directions. 
 
 
 
