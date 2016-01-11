@@ -6,6 +6,18 @@ _lookingout
 _thewindow
 _wanderlust
 
+Caption for an unseen image:
+Teju Cole in facebook as caption for a photo from Venice:
+"John said he'd stopped taking pictures sometime in the 1980s because (my words now, as I forget exactly what he said) the kind of looking you do for a photograph forecloses other kinds of seeing. What he has photographed he has a hard time writing about. So he stops taking photographs."
+
+My rambling now: It was in this street (in Bergamo) the first morning that I realized, 3 rolls of film already spent, that I have been seeing solely through the viewfinder's window. The camera has become an indispensable organ, not only of seeing, but of being present. 
+
+I knew a photographer who would go to obscure villages looking for images. He would be the most active at early morning, as the day grew longer he would become irritated; towards evening he would click maniacally. As the sun set he would loose all interest in the place, retreat to the guest house or hotel and count the hours till he would fall asleep.
+
+
+
+
+
 BLUE: "Blue says outrageously and absurdly I'm yours or you'r mine and no other can judge us."  John Berger.
 
 
