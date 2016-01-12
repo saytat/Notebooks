@@ -6,6 +6,12 @@ _lookingout
 _thewindow
 _wanderlust
 
+
+The seal glided down effortlessly and held her gaze, just for a moment. But that would come afterwards, if at all. 
+Berger - in Why Look at Animals -  writes: "By no other species except man will the animal's look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look." 
+Weronisia stongly feels that everyone should be afraid of crocodiles. Everyone, excpet her. She adoers them. Weronisia is three. She has a stuffed toy crockodile. In some of her books, or puzzles there are images of the animal whose photographic likeness she hasen't yet seen. She actually knows a lot about her favorite animal and loves it dearly despite (or perhaps because of) its fierce reputation. 
+
+
 Caption for an unseen image:
 Teju Cole in facebook as caption for a photo from Venice:
 "John said he'd stopped taking pictures sometime in the 1980s because (my words now, as I forget exactly what he said) the kind of looking you do for a photograph forecloses other kinds of seeing. What he has photographed he has a hard time writing about. So he stops taking photographs."
