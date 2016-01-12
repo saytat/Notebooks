@@ -7,6 +7,9 @@ _thewindow
 _wanderlust
 
 
+Berger: "Kandinsky asks, what share is yellow. [..] I think that of the three primary colours yellow is the only one which is a stain. Thats to say it takes on the substance of what its colouring. It has none of its own."
+
+
 The seal glided down effortlessly and held her gaze, just for a moment. But that would come afterwards, if at all. 
 Berger - in Why Look at Animals -  writes: "By no other species except man will the animal's look be recognised as familiar. Other animals are held by the look. Man becomes aware of himself returning the look." 
 Weronisia stongly feels that everyone should be afraid of crocodiles. Everyone, excpet her. She adoers them. Weronisia is three. She has a stuffed toy crockodile. In some of her books, or puzzles there are images of the animal whose photographic likeness she hasen't yet seen. She actually knows a lot about her favorite animal and loves it dearly despite (or perhaps because of) its fierce reputation. 
