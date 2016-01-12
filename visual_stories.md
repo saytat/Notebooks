@@ -6,6 +6,9 @@ _lookingout
 _thewindow
 _wanderlust
 
+Tomas Trastromer: "But the trees wave wild colors: signalls to the other shore.
+As if waiting to be rescued."
+
 
 Berger: "Kandinsky asks, what share is yellow. [..] I think that of the three primary colours yellow is the only one which is a stain. Thats to say it takes on the substance of what its colouring. It has none of its own."
 
