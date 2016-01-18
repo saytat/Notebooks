@@ -9,7 +9,7 @@ Examples:
 2. Citizen ecology: A map of forestation/deforestation with stories: http://www.globalforestwatch.org/
 3. Similar but more ambitiousŁ http://www.vizzuality.com/projects/resource-watch
 4. **This connects with citizen science:** http://www.vizzuality.com/projects/old-weather
-5. **This app already promises to do what I was thinking of as a city exploration idea:** http://deriveapp.com/s/v2/
+5. **This app already promises to do what I was thinking of as a city exploration idea:** http://deriveapp.com/s/v2/about/
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
