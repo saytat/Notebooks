@@ -11,7 +11,7 @@ Three levels: i. Photos illustrating a time based narrative. Like life in Krochm
 ii. Photos illustrating subsequent lifes, lifes that are perhaps not so well documented in language. 
 iii. The third level is what Berger describes in Another Way of Telling. How does the image and text live in conjuction? Also Teju Cole's Instagram feed.
 3. Get content from web. The received content can be used to craft a story. The primary use case of the app is crafting digital stories. Location based, geotagged.
-4. 
+4. The audience can become part of the story by recording something or by uploading something. A Krochmalna street in 365 days project kind of thing.
 
 
 User Interface:
