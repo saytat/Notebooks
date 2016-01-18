@@ -49,6 +49,7 @@ Examples:
 1. Indian startup : https://www.techinasia.com/india-edsix-briain-lab-funding
 2. http://mfadt.parsons.edu/2015/projects/petpet/
 3. http://mfadt.parsons.edu/2015/projects/soundboxed/
+4. A game for dimension based educational app: http://mfadt.parsons.edu/2015/projects/mirage/
 
 Random Notes:
 1. BikeCity is alrady a kind of augmented perception app. I can create a bike trip and share it with you. Does it allow story pinning? 
