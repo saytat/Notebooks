@@ -15,6 +15,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 5. This app can be a limited time app. Like tie it with an event like Singer's Warsaw. Or Prus's Lalka walk. 
 6. It can be ited to already existing forms of book themed literary walks. School children in Warsaw alrady go for Lalka walks. How can this platform tie in with an existing activity. 
 7. Potential use case: B is on a Lalka walk. She listens to a passage in Lazieki Park. The passage gives rise to a desire to comment. Or even tell her own story. She records it at the place. The content becomes geo-tagged. Only available in the location. Use a tree in Lazieki (add an iBeacon) to replay the story next time someone comes along.
+8. The app catalogs stories (not random content). The stories get upvoted, downvoted. Enhanced. 
 
 
 User Interface:
