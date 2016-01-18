@@ -22,6 +22,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 12. Allowing extension of the story. Extension of Lalka. Where Wlokuski talks to himself. Or Rzeki wtites a new diary entry that did not exist in the book. Extending the book.
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
+15. This can potentially extend beyond the city. Part of a bike trip for example. Audio guided bike trip.
 
 Idea#1a: Storify Vistula walk. 2 banks of Vistula. Possibility to add content on more diverse topics. Like ecology, place history. The constitutive parts of the app remains the same.
 
