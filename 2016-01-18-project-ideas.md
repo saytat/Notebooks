@@ -1,6 +1,6 @@
 ## Project Ideas
 
-## City Exploration - Geolocation - app:
+## City Exploration - Geolocation - Maps - apps:
 
 Examples:
 1. New York Public Library created an app for mapping on top of old printed maps digitized. Citizen cartography: http://buildinginspector.nypl.org/footprint
