@@ -40,6 +40,7 @@ Examples:
 6. **Write emails to trees:** http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/
 7. The use case is pretty bad - fighting tech addiction, but it uses ibeacon: http://mfadt.parsons.edu/2015/projects/ditox/
 8. A story telling website: http://mfadt.parsons.edu/2015/projects/like-life-itself/
+9. Escape room, participatory media: http://mfadt.parsons.edu/2015/projects/find-maria-rivera/
 
 
 
