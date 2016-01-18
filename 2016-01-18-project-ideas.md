@@ -11,6 +11,12 @@ Three levels: i. Photos illustrating a time based narrative. Like life in Krochm
 ii. Photos illustrating subsequent lifes, lifes that are perhaps not so well documented in language. 
 3. 
 
+
+User Interface:
+The app should be able to search for content available in net automatically. In order to capture content, it has to go beyond its own content upload/create UI. For example, if someone uploads a twitter story with hashtag #krochmalna; that input could be used to pull the information into the app.
+
+
+
 Examples:
 1. New York Public Library created an app for mapping on top of old printed maps digitized. Citizen cartography: http://buildinginspector.nypl.org/footprint
 2. Citizen ecology: A map of forestation/deforestation with stories: http://www.globalforestwatch.org/
