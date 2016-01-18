@@ -23,7 +23,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
 
-
+Idea#1a: Storify Vistula walk. 2 banks of Vistula. Possibility to add content on more diverse topics. Like ecology, place history. 
 
 User Interface:
 The app should be able to search for content available in net automatically. In order to capture content, it has to go beyond its own content upload/create UI. For example, if someone uploads a twitter story with hashtag #krochmalna; that input could be used to pull the information into the app. From instagram as well???
@@ -41,6 +41,7 @@ Examples:
 7. The use case is pretty bad - fighting tech addiction, but it uses ibeacon: http://mfadt.parsons.edu/2015/projects/ditox/
 8. A story telling website: http://mfadt.parsons.edu/2015/projects/like-life-itself/
 9. Escape room, participatory media: http://mfadt.parsons.edu/2015/projects/find-maria-rivera/
+10. 
 
 
 
