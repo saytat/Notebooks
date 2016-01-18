@@ -13,7 +13,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 3. Get content from web. The received content can be used to craft a story. The primary use case of the app is crafting digital stories. Location based, geotagged.
 4. The audience can become part of the story by recording something or by uploading something. A Krochmalna street in 365 days project kind of thing.
 5. This app can be a limited time app. Like tie it with an event like Singer's Warsaw. Or Prus's Lalka walk. 
-6. It can be ited to already existing forms of book themed literary walks. School children in Warsaw alrady go for Lalka themed walks. 
+6. It can be ited to already existing forms of book themed literary walks. School children in Warsaw alrady go for Lalka walks.  
 
 
 User Interface:
