@@ -36,7 +36,7 @@ Examples:
 4. **This connects with citizen science:** http://www.vizzuality.com/projects/old-weather
 5. **This app already promises to do what I was thinking of as a city exploration idea:** http://deriveapp.com/s/v2/about/
 6. **Write emails to trees:** http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/
-7. 
+7. Is there any way of connecting this with Google Cardboard or cardboard viewer?
 
 
 ## Education technology:
@@ -53,6 +53,7 @@ Random Notes:
 3. [As part of mmorpgs, we will superimpose this virtual world on our physical environment, in order to evolve in it. In this world, we will have to face real challenges. Imagine yourself trying to find the spear of Odin while physically confronting the far North and actually braving the tumult of a stormy sea to reach the island Vulcano in Italy to gain Ifrit’s ultimate fire incantation. Depending on the game selected, the architecture of your city will be substituted in your view by, for example steampunk buildings or elven shops. Players will put on their avatars like a costume and only subscribers will be able to see it.](https://medium.com/ui-collection/the-future-of-augmented-reality-and-virtual-reality-alternative-reality-83539b85b086#.z89g1zsjm)
 4. Street Art and Tech: http://mfadt.parsons.edu/2015/projects/innovation-of-street-art/
 5. Varanasi - City Map - mfadt.parsons.edu/2015/projects/varanasi/
+6. 
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
