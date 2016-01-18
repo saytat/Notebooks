@@ -19,6 +19,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 9. Add illustrations, gifs, other artworks.
 10. Through geolocation the app becomes space bound. Stories get activated only when the user is there.
 11. Can the app become time bound also? Creating anticipation??
+12. Allowing extension of the story. Extension of Lalka. Where Wlokuski talks to himself. Or Rzeki wtites a new diary entry that did not exist in the book. Extending the book. 
 
 
 User Interface:
