@@ -17,6 +17,8 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 7. Potential use case: B is on a Lalka walk. She listens to a passage in Lazieki Park. The passage gives rise to a desire to comment. Or even tell her own story. She records it at the place. The content becomes geo-tagged. Only available in the location. Use a tree in Lazieki (add an iBeacon) to replay the story next time someone comes along.
 8. The app catalogs stories (not random content). The stories get upvoted, downvoted. Enhanced. 
 9. Add illustrations, gifs, other artworks.
+10. Through geolocation the app becomes space bound. Stories get activated only when the user is there.
+11. Can the app become time bound also? Creating anticipation??
 
 
 User Interface:
