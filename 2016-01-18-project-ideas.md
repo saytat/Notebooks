@@ -4,7 +4,7 @@
 Questions: There are a host of apps for mapping/exploring city space. What's going on for non urban spaces?? 
 Update: there are lots of services for Data Visualization, Information storage for environment, social sector data, stories. Check out http://www.vizzuality.com/
 
-Idea#1: Krochmalna Street. A guided tour. The app is a slick walking tour service with primarily audio. Some images and videos - perhaps. 
+Idea#1: Krochmalna Street. A guided tour. The app is a slick walking tour service with primarily audio. Some images and videos - perhaps. Äny User can create content. But so can "experts". There is no hierarchy or boundary between professionals (historians, literature students, critics, voice actors) and ametures. But there can be degress of visibility etc to upvote more useful tours. 
 
 Examples:
 1. New York Public Library created an app for mapping on top of old printed maps digitized. Citizen cartography: http://buildinginspector.nypl.org/footprint
