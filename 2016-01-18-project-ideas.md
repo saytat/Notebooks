@@ -14,7 +14,7 @@ ii. Photos illustrating subsequent lifes, lifes that are perhaps not so well doc
 
 User Interface:
 The app should be able to search for content available in net automatically. In order to capture content, it has to go beyond its own content upload/create UI. For example, if someone uploads a twitter story with hashtag #krochmalna; that input could be used to pull the information into the app. From instagram as well???
-The pulled in content can be kept in a POOL for curators to use to tell a story. Crafting the story is paramount. Our app is for 
+The pulled in content can be kept in a POOL for curators to use to tell a story. Crafting the story is paramount. The third level is what Berger describes in Another Way of Telling. How does the image and text live in conjuction? 
 
 
 
