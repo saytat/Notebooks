@@ -6,7 +6,7 @@ Update: there are lots of services for Data Visualization, Information storage f
 
 Idea#1: Krochmalna Street. A guided tour. The app is a slick walking tour service with primarily audio. Some images and videos - perhaps. Äny User can create content. But so can "experts". There is no hierarchy or boundary between professionals (historians, literature students, critics, voice actors) and ametures. But there can be degress of visibility etc to upvote more useful tours. The content can include the following:
 1. Read out from books describing Krochmalna. A crowdsourced audio collage. Ametures and professionals can participate.
-2. Photographs. Both of "historical" interest. But also of daily life in the street. 
+2. Photographs. Both of "historical" interest. But also of daily life in the street. The goal is not to create only continuity in story (like illustrating the text with the  
 3. 
 
 Examples:
