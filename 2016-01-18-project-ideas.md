@@ -21,6 +21,8 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 11. Can the app become time bound also? Creating anticipation??
 12. Allowing extension of the story. Extension of Lalka. Where Wlokuski talks to himself. Or Rzeki wtites a new diary entry that did not exist in the book. Extending the book.
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
+14. Can this app include google cardboard apps?
+
 
 
 User Interface:
@@ -36,14 +38,17 @@ Examples:
 4. **This connects with citizen science:** http://www.vizzuality.com/projects/old-weather
 5. **This app already promises to do what I was thinking of as a city exploration idea:** http://deriveapp.com/s/v2/about/
 6. **Write emails to trees:** http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/
-7. Is there any way of connecting this with Google Cardboard or cardboard viewer?
+7. The use case is pretty bad - fighting tech addiction, but it uses ibeacon: http://mfadt.parsons.edu/2015/projects/ditox/
+
 
 
 ## Education technology:
 
 Examples:
-1. Indian startup : https://www.techinasia.com/india-edsix-briain-lab-funding
 
+1. Indian startup : https://www.techinasia.com/india-edsix-briain-lab-funding
+2. http://mfadt.parsons.edu/2015/projects/petpet/
+3. 
 
 Random Notes:
 1. BikeCity is alrady a kind of augmented perception app. I can create a bike trip and share it with you. Does it allow story pinning? 
@@ -54,6 +59,10 @@ Random Notes:
 4. Street Art and Tech: http://mfadt.parsons.edu/2015/projects/innovation-of-street-art/
 5. Varanasi - City Map - mfadt.parsons.edu/2015/projects/varanasi/
 6. Detaroit, old and new photographs: http://mfadt.parsons.edu/2015/projects/oldie-but-a-new-d/
+
+
+
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
