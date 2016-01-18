@@ -21,8 +21,11 @@ Examples:
 
 
 Random Notes:
-1. The internet as a time travel machine. The videos, images, texts, even layout of web as the material for experiencing/constructing a history. Here is the pull of her-story. When I'm playing it I'm trying to piece together the story from the fragments. This is the backbone of research. Of looking for useful pieces of information - fitting together the puzzle - creating a a coherent narrative. Repeat.
+1. BikeCity is alrady a kind of augmented perception app. I can create a bike trip and share it with you. Does it allow story pinning? 
+
+2. The internet as a time travel machine. The videos, images, texts, even layout of web as the material for experiencing/constructing a history. Here is the pull of her-story. When I'm playing it I'm trying to piece together the story from the fragments. This is the backbone of research. Of looking for useful pieces of information - fitting together the puzzle - creating a a coherent narrative. Repeat.
 2. ["Like Ingrees today, the world will become the reference grid for video games. For example you will be able to challenge any athletes around the world on a 100m race on your usual running track, or even stroll through the streets of Paris in the 18th century to solve investigations and why not escape from a zombie invasion in a park."](https://medium.com/ui-collection/the-future-of-augmented-reality-and-virtual-reality-alternative-reality-83539b85b086#.z89g1zsjm)
+3. [As part of mmorpgs, we will superimpose this virtual world on our physical environment, in order to evolve in it. In this world, we will have to face real challenges. Imagine yourself trying to find the spear of Odin while physically confronting the far North and actually braving the tumult of a stormy sea to reach the island Vulcano in Italy to gain Ifrit’s ultimate fire incantation. Depending on the game selected, the architecture of your city will be substituted in your view by, for example steampunk buildings or elven shops. Players will put on their avatars like a costume and only subscribers will be able to see it.](https://medium.com/ui-collection/the-future-of-augmented-reality-and-virtual-reality-alternative-reality-83539b85b086#.z89g1zsjm)
 
 
 
