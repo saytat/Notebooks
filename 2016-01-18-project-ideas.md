@@ -9,11 +9,12 @@ Idea#1: Storify Krochmalna Street. A guided tour. The app is a slick walking tou
 2. Photographs. Both of "historical" interest. But also of daily life in the street. The goal is not to create only continuity in story (like illustrating the text with the photographs. But also to highlight the differences and open up different viewpoints on the space. 
 Three levels: i. Photos illustrating a time based narrative. Like life in Krochmalna in between war years.
 ii. Photos illustrating subsequent lifes, lifes that are perhaps not so well documented in language. 
-3. 
+3. Get content from web. The received content can be used to craft a story. 
 
 
 User Interface:
-The app should be able to search for content available in net automatically. In order to capture content, it has to go beyond its own content upload/create UI. For example, if someone uploads a twitter story with hashtag #krochmalna; that input could be used to pull the information into the app.
+The app should be able to search for content available in net automatically. In order to capture content, it has to go beyond its own content upload/create UI. For example, if someone uploads a twitter story with hashtag #krochmalna; that input could be used to pull the information into the app. From instagram as well???
+The pulled in content can be kept in a POOL for curators to use to tell a story. Crafting the story is paramount. Our app is for 
 
 
 
