@@ -1,7 +1,8 @@
 ## Project Ideas
 
-## City Exploration - Geolocation - Maps - apps:
-Questions: There are a host of apps for mapping/exploring city space. What's going on for non urban spaces??
+## City Exploration - Geolocation - Maps - apps - Data Visualization:
+Questions: There are a host of apps for mapping/exploring city space. What's going on for non urban spaces?? 
+Update: there are lots of services for this. Check out http://www.vizzuality.com/
 
 Examples:
 1. New York Public Library created an app for mapping on top of old printed maps digitized. Citizen cartography: http://buildinginspector.nypl.org/footprint
