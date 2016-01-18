@@ -12,4 +12,9 @@ Examples:
 5. **This app already promises to do what I was thinking of as a city exploration idea:** http://deriveapp.com/s/v2/about/
 
 
+## Education technology:
+
+Examples:
+1. Indian startup : https://www.techinasia.com/india-edsix-briain-lab-funding
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
