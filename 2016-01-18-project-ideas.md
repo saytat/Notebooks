@@ -46,6 +46,7 @@ Examples:
 8. A story telling website: http://mfadt.parsons.edu/2015/projects/like-life-itself/
 9. Escape room, participatory media: http://mfadt.parsons.edu/2015/projects/find-maria-rivera/
 10. Stories about a city curated by musician: https://play.google.com/store/apps/details?id=xyz.echoes.jegkanhuske
+11. Echos, geolocation based audio app: https://play.google.com/store/apps/details?id=xyz.echoes.android
 
 
 
