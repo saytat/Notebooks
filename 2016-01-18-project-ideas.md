@@ -23,7 +23,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
 15. This can potentially extend beyond the city. Part of a bike trip for example. Audio guided bike trip.
-16. Recording location based sound should be part of it. In more actively sonic cities - like Kolkta - 
+
 
 ##Connected idea: how about superimposing streets from different cities. i.e. make a user walk park street by walking nowy swiat? Does that make sense at all??????
 
@@ -45,7 +45,7 @@ Examples:
 7. The use case is pretty bad - fighting tech addiction, but it uses ibeacon: http://mfadt.parsons.edu/2015/projects/ditox/
 8. A story telling website: http://mfadt.parsons.edu/2015/projects/like-life-itself/
 9. Escape room, participatory media: http://mfadt.parsons.edu/2015/projects/find-maria-rivera/
-10. 
+10. Stories about a city curated by musician: https://play.google.com/store/apps/details?id=xyz.echoes.jegkanhuske
 
 
 
