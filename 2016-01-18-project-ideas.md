@@ -27,7 +27,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 17. Connection with rehabilation of Parkinson's disease patient: 
 "13.20 Justyna Maculewicz – Rhytmic walking interactions with auditory feedback
 18. Walking in forest or parks. A soundscape can be produced and geotagged. So Walker 1 creates a soundscape / soundmap and uploads it. When Walker 2 retraces the path - the soundscape becomes audible.
-19. Geolocation based conversation. Use Case: Participant A is in Lazieki. Reaches a bench when the app signals that a connection to Kolkata is availble. If the user agrees to connect, she is connected to Participant B in Dhakuriya Lake Kolkata sitting on a bench. They can talk in real time. Or text. Or the texts can be voice synthesized. 
+19. Geolocation based conversation. Use Case: Participant A is in Lazieki. Reaches a bench when the app signals that a connection to Kolkata is availble. If the user agrees to connect, she is connected to Participant B in Dhakuriya Lake Kolkata sitting on a bench. They can talk in real time. Or text. Or the texts can be voice synthesized. The two benches form a portal of connection.
 
 Walking is an activity that plays an important part in our daily lives. In addition to
 being a natural means of transportation, walking is also characterized by the
