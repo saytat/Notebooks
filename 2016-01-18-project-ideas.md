@@ -23,7 +23,8 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
 15. This can potentially extend beyond the city. Part of a bike trip for example. Audio guided bike trip.
-16. Connection with rehabilation of Parkinson's disease patient: 
+16. In connection with 3D sound. The platform being used for curating a sonic event in a place. For example, there are summer concerts in Lazieki. The concerts can be recorded in 3D and geotagged. Later, say in summer, the visitor to the park can revisit the ausio sundscapes through the app. Not only Lazieki concerts, but also natural sounds. Of birds, maybe animals??
+17. Connection with rehabilation of Parkinson's disease patient: 
 "13.20 Justyna Maculewicz – Rhytmic walking interactions with auditory feedback
 
 Walking is an activity that plays an important part in our daily lives. In addition to
