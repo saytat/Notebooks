@@ -23,6 +23,56 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
 15. This can potentially extend beyond the city. Part of a bike trip for example. Audio guided bike trip.
+16. Connection with rehabilation of Parkinson's disease patient: 
+"13.20 Justyna Maculewicz – Rhytmic walking interactions with auditory feedback
+
+Walking is an activity that plays an important part in our daily lives. In addition to
+being a natural means of transportation, walking is also characterized by the
+resulting sound, which can provide information about the surface, type of shoe, and
+movement speed as well as the person’s age, weight, and physical condition. Until
+now, few studies have shown the role of interactive auditory feedback produced by
+walkers in affecting walking pace.
+General goal of my research is to test rhythmic interactive walking with auditory
+feedback from several perspectives. Quantitative perspective: to see how different
+types of auditory cues influence tempo stability within different pace range and how
+the feedback can influence preferred pace of participants. Qualitative – to see how
+different feedback and cues shift perception of naturalness and perceived ease of
+synchronization. I am mostly focused on ecological sounds, which are seen as the
+signals, which convey richer and more useful information than just simple
+metronome. There are several interesting effects emerging from my hitherto
+research. When participants are asked to walk in their preferred pace and different
+feedback sounds are presented, their pace also changes. Until now I have been
+testing gravel and wood sound as ecological ones and a tone as a non-ecological
+sound. Results show that participants have the slowest pace with gravel feedback,
+then wood and a tone motivates to the fastest walking. When they are asked to
+synchronize with above-mentioned sounds their results are similar with a slight worse
+performance with gravel cues. Even though this feedback produces the highest
+synchronizing error it is perceived as the one, which is the easiest to follow. For the
+explanation to these results I am looking in neurological data. The exploratory
+electroencephalographic (EEG) study was conducted to test neural activity for
+interactive rhythmic walking in place with three different tempi (80, 105 and 130
+BPM) in the presence of four auditory cues: two ecological (gravel, wood) and two
+non – ecological (artificial aggregate, artificial solid). By analysing power spectrum
+density in alpha, beta and gamma oscillations wave bands we studied brain
+activations correlated with attention, motoric behaviour and semantic information
+enclosed in the ecological and non – ecological auditory signals. The results revealed
+the highest alpha activation for solid artificial sounds, significantly different than
+gravel sound. The beta activity was the highest for both non – ecological signal, and
+gamma for both aggregate sounds. We believe that our results are encouraging for
+further exploration of the topic of ecological vs. non – ecological auditory cues in
+rhythmic walking task, especially in a context of gait rehabilitation in Parkinson’s
+disease.
+Knowledge acquired through these experiments will be useful in the feedback and
+cues design for gait rehabilitation (motivation, pace control, balance control,
+movement continuation), exercise (motivation, perceived exertion, vigor) and
+entertainment (virtual reality applications).
+
+Justyna Maculewicz is a PhD fellow at Aalborg University Copenhagen. Her research
+interests include rhythmic motoric tasks with auditory and haptic feedback.
+Maculewicz received a BS in acoustics and MS in cognitive science from Adam
+Mickiewicz University in Poznan. She is focused on research on ecologically valid
+audio and haptic feedback and its influence on tempo-based exercise for
+entertainment and rehabilitation."
 
 
 ##Connected idea: how about superimposing streets from different cities. i.e. make a user walk park street by walking nowy swiat? Does that make sense at all??????
