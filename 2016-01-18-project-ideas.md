@@ -23,6 +23,9 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 13. Historic Maps. Maybe add a mapp coluring (via third party) plugin.
 14. Can this app include google cardboard apps?
 15. This can potentially extend beyond the city. Part of a bike trip for example. Audio guided bike trip.
+16. Recording location based sound should be part of it. In more actively sonic cities - like Kolkta - 
+
+##Connected idea: how about superimposing streets from different cities. i.e. make a user walk park street by walking nowy swiat? Does that make sense at all??????
 
 Idea#1a: Storify Vistula walk. 2 banks of Vistula. Possibility to add content on more diverse topics. Like ecology, place history. The constitutive parts of the app remains the same.
 
