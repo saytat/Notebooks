@@ -26,6 +26,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 16. In connection with 3D sound. The platform being used for curating a sonic event in a place. For example, there are summer concerts in Lazieki. The concerts can be recorded in 3D and geotagged. Later, say in summer, the visitor to the park can revisit the ausio sundscapes through the app. Not only Lazieki concerts, but also natural sounds. Of birds, maybe animals?? Similarly for Vistula walk. Here, ambinet music comes to the fore.
 17. Connection with rehabilation of Parkinson's disease patient: 
 "13.20 Justyna Maculewicz – Rhytmic walking interactions with auditory feedback
+18. Walking in forest or parks. A soundscape can be produced and geotagged. So Walker 1 creates a soundscape / soundmap and uploads it. When Walker 2 retraces the path - the soundscape becomes audible.
 
 Walking is an activity that plays an important part in our daily lives. In addition to
 being a natural means of transportation, walking is also characterized by the
