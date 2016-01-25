@@ -29,6 +29,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 18. Walking in forest or parks. A soundscape can be produced and geotagged. So Walker 1 creates a soundscape / soundmap and uploads it. When Walker 2 retraces the path - the soundscape becomes audible.
 19. Geolocation based conversation. Use Case: Participant A is in Lazieki. Reaches a bench when the app signals that a connection to Kolkata is availble. If the user agrees to connect, she is connected to Participant B in Dhakuriya Lake Kolkata sitting on a bench. They can talk in real time. Or text. Or the texts can be voice synthesized. The two benches mark portals that can be connected.
 20. Augmented Reality - visual and aural pinned to printed posters. Think of posters of music festival that can activate soundscapes by image recognition. https://www.layar.com/
+21. Think about realtime audio. A personal radio feed.
 
 Walking is an activity that plays an important part in our daily lives. In addition to
 being a natural means of transportation, walking is also characterized by the
