@@ -31,6 +31,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 20. Augmented Reality - visual and aural pinned to printed posters. Think of posters of music festival that can activate soundscapes by image recognition. https://www.layar.com/
 21. Think about realtime audio. A personal radio feed.
 22. Beacons and other NFC tech for creating locative media inside built area like prison (auswitz), castle, shipyard (Gdank) - performance pieces in time bound guided tour. Or sound installations - telling narrative.
+23. Locative media game being played in Bieszczady or Tatry. The story puzzle unlocked in situ.
 
 Walking is an activity that plays an important part in our daily lives. In addition to
 being a natural means of transportation, walking is also characterized by the
