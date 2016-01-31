@@ -34,6 +34,7 @@ iii. The third level is what Berger describes in Another Way of Telling. How doe
 23. Locative media game being played in Bieszczady or Tatry. The story puzzle unlocked in situ.
 24. One of the most urgent "app" for this platform can be locative media documentary. Like a queue of the places where accidents happened. Like here in Poland people put up memorials in street corners where people died.
 
+
 Walking is an activity that plays an important part in our daily lives. In addition to
 being a natural means of transportation, walking is also characterized by the
 resulting sound, which can provide information about the surface, type of shoe, and
@@ -128,6 +129,10 @@ Random Notes:
 5. Varanasi - City Map - mfadt.parsons.edu/2015/projects/varanasi/
 6. Detaroit, old and new photographs: http://mfadt.parsons.edu/2015/projects/oldie-but-a-new-d/
 
+
+3. My topic: 3D sound applications for visually imapiered people.
+
+1. Idea#1: 3D audio simulation of real environment for training recently blind people, children inside room/closed environment. 
 
 
 
