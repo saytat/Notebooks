@@ -132,7 +132,7 @@ Random Notes:
 
 3. My topic: 3D sound applications for visually imapiered people.
 
-1. Idea#1: 3D audio simulation of real environment for training recently blind people, children inside room/closed environment. 
+1. Idea#1: 3D audio simulation of real environment for training recently blind people, children inside room/closed environment. Or for training trainers of blind people.
 
 
 
