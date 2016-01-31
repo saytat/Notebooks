@@ -133,6 +133,7 @@ Random Notes:
 3. My topic: 3D sound applications for visually imapiered people.
 
 1. Idea#1: 3D audio simulation of real environment for training recently blind people, children inside room/closed environment. Or for training trainers of blind people. The training can be very important for people going progressively blind. In such cases the open street can be dangerous. 3D audio simulation of open space - street can be used as training material in indoor spaces.
+2. for blind children: audio based education app. teaching mathematcis via music. physics via sound interaction design.
 
 
 
