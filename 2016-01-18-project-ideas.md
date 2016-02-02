@@ -137,6 +137,7 @@ Random Notes:
 3. Soundwalk for visually imapired people. Outdoor soundwalk. Indoor soundwalk with iBeacons technology.
 4. Teaching music with haptic devices to children?
 5. Sound providing information about scientific experiments? Example: geiger counter.
+6. For people with low to very low eyesight, can there be any visual augmentation via google glass kind of smart eye wear? Or think of aural navigation / storytelling for low eyesight people.
 
 
 
