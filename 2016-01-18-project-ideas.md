@@ -143,7 +143,7 @@ Random Notes:
 9. The project can be built around developing an open source app i.e. platform independent app for use with the cities unlimited project hardware.
 10. Biking for visually impaired children. What digital tool can be useful?
 11. Biking for deaf person. Smart glasses? Bone conduicting audio signals?
-12. If guide sticks are enhanced with sensor that can amplify sound or provide sound signals to the blind.
+12. If guide sticks are enhanced with sensor that can amplify sound or provide sound signals to the blind. Smart walker.
 
 
 
