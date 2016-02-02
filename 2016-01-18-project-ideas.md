@@ -140,6 +140,7 @@ Random Notes:
 6. For people with low to very low eyesight, can there be any visual augmentation via google glass kind of smart eye wear? Or think of aural navigation / storytelling for low eyesight people.
 7. Subset of soundwalk for visually impaired people: nature walks in and around Warsaw. Since the topology is plains, it can be helpful for blind people to go for walks. Also think of a audio app/device that can magnify real sound in 3D so that people with visual and slight aural impairement can also use it.
 8. Think of bone conducting audio (cities unlimited project) for deaf and dumb?
+9. The project can be built around developing an open source app i.e. platform independent app for use with the cities unlimited project hardware.
 
 
 
