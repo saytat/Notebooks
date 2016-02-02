@@ -138,6 +138,8 @@ Random Notes:
 4. Teaching music with haptic devices to children?
 5. Sound providing information about scientific experiments? Example: geiger counter.
 6. For people with low to very low eyesight, can there be any visual augmentation via google glass kind of smart eye wear? Or think of aural navigation / storytelling for low eyesight people.
+7. Subset of soundwalk for visually impaired people: nature walks in and around Warsaw. Since the topology is plains, it can be helpful for blind people to go for walks. Also think of a audio app/device that can magnify real sound in 3D so that people with visual and slight aural impairement can also use it.
+8. Think of bone conducting audio for deaf and dumb?
 
 
 
