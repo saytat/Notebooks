@@ -61,6 +61,14 @@ Mars Trilogy - Kim Stanley Robinson
 Europe in Autumn by Dave Hutchinson
 
 
+Reading List for February:
+Paired Radings:
+1. Can't stop Won't Stop + Between the World and Me/
+2. Khowabnama + ??
+3. The War of the End of the World + The Pedagogy of the Opressed.
+
+
+
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
