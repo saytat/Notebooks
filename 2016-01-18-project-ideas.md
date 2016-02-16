@@ -144,6 +144,14 @@ Random Notes:
 10. Biking for visually impaired children. What digital tool can be useful?
 11. Biking for deaf person. Smart glasses? Bone conduicting audio signals?
 12. If guide sticks are enhanced with sensor that can amplify sound or provide sound signals to the blind. Smart walker.
+13. What areas of work are visually impaired people often employed in outside the domain of office work in developed societies. What non office work can visually impaired people do in India? What tools are available?
+
+
+NOTES:
+
+video: https://www.youtube.com/watch?v=qLhCsTHeifM
+Sound broadcast via beacons technology: if cafes, medicine shops etc can be equiped with beacons technology that can push notifications to mobile phones. 
+Special case use. Push notifications in 3D audio to boneconducting headphones.
 
 
 
