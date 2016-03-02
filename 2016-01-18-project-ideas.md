@@ -131,6 +131,7 @@ Random Notes:
 
 
 3. My topic: 3D sound applications for visually imapiered people.
+- 3. An audio game where the player wanders in a forest - blindfolded. The goal of the game is to reach a location. The location can be reached by deciphering audio cues and solving audio puzzles. The game can be played by sighted and blind players together. The game can be organized at night. 
 - 2. Think how you can create creative application for visually impaired. Applications that they can use for creative expression.
 - 1. Museum tour for visually impaired people. Sound guides with 3D audio leading up to exhibits. ++ iBeacons.
 0. Idea: Audio based locked room game. Or audio based forest walk game. Not just for visually impaired people but for all.
