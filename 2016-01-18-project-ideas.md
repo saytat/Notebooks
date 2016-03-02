@@ -131,7 +131,8 @@ Random Notes:
 
 
 3. My topic: 3D sound applications for visually imapiered people.
-
+- 1. Museum tour for visually impaired people. Sound guides with 3D audio leading up to exhibits. ++ iBeacons.
+0. Idea: Audio based locked room game. Or audio based forest walk game. Not just for visually impaired people but for all.
 1. Idea#1: 3D audio simulation of real environment for training recently blind people, children inside room/closed environment. Or for training trainers of blind people. The training can be very important for people going progressively blind. In such cases the open street can be dangerous. 3D audio simulation of open space - street can be used as training material in indoor spaces.
 2. for blind children: audio based education app. teaching mathematcis via music. physics via sound interaction design.
 3. Soundwalk for visually imapired people. Outdoor soundwalk. Indoor soundwalk with iBeacons technology.
@@ -145,6 +146,7 @@ Random Notes:
 11. Biking for deaf person. Smart glasses? Bone conduicting audio signals?
 12. If guide sticks are enhanced with sensor that can amplify sound or provide sound signals to the blind. Smart walker.
 13. What areas of work are visually impaired people often employed in outside the domain of office work in developed societies. What non office work can visually impaired people do in India? What tools are available?
+
 
 
 NOTES:
