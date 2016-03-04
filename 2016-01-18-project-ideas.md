@@ -134,7 +134,7 @@ Random Notes:
 
 **** - 4. IMPORTANT IDEA: the project will consist of creating a prototype of an app that will play geo-tagged 3D/2D audio with some navigational cues. The content can be audio guide of built environment - like nowy swiat/old town or of muranow (especially muranow - since its physical layer has been destroyed. the story can be of muranow's change from jewish neighborhood through communist transformation). The audio guide should include - i. non-digetic sound from field recordings, ii. narration, iii. navigation aid iv. contextual information. Like bus stop, no. of bus going somewhere, coffee shop etc. The geo-tagging or location based aspect can use iBeacons hardware. 
 Another story can be - soundwalk of Warsaw's hidden places - like the Gadanski train station; or Praga side river walk; or Palmiry inside Kampinos forest. The app can then primarily act as navigation guide with some contextual information and some audio guide aspects - like a historical overview of palmyry.
-The idea is - the app can be used by not only visually impaired people but also foreign travellers who are not familiar with the language.
+The idea is - the app can be used by not only visually impaired people but also foreign travellers who are not familiar with the language. The app can then be offered as part of city's official travel guide. 
 Open question: how can content for this app be created by non-programmers?
 
 - 3. An audio game where the player wanders in a forest - blindfolded. The goal of the game is to reach a location. The location can be reached by deciphering audio cues and solving audio puzzles. The game can be played by sighted and blind players together. The game can be organized at night. 
