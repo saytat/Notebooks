@@ -19,6 +19,7 @@ However, the relationship between internet and museum radically changes if we be
 
 The same can be said about mass entertainment. A pop concert or a film screening creates communities among those in attendance. However, mass culture itself cannot make these communities self-reflective—cannot thematize the event of building these transitory, precarious, contingent communities. The perspective of the audience during a pop concert or movie screening is too forward-directed—to the stage or screen—for them to adequately perceive and reflect upon the space in which they find themselves, or the communities to which they temporarily belong. That is the kind of reflection that advanced art installation allows us to achieve. To borrow Marshall McLuhan’s vocabulary, the medium of installation is a cool medium—unlike the internet, which is obviously a hot medium, because it requires users to be spatially separated and to concentrate their attention on a screen. By cooling down all other media, contemporary art installation offers visitors the possibility of self-reflection—and of reflection upon the immediate event of their coexistence with other visitors and exhibited objects—that other media are unable to offer to the same degree. Here, individual human beings are confronted with their common fate—with the radically contingent, transitory, precarious conditions of their existence.
 
-
+HITO STEYERL AND NINA POWER ON ART, CAPITALISM, PUBLIC, JUNK TIME:
+https://soundcloud.com/icalondon/hito-steyerl-film-screening-introduction-and-qa
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
