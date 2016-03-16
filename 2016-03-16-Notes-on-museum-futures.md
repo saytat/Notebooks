@@ -1,5 +1,7 @@
 ## Notes on Museum's future:
 
+
+**QUESTIONS ON EMBARKING UPON APP FOR MUSEUMS**
 What is interesting in museums today?
 Why and who goes to a museum?
 What is the social function of museum?
