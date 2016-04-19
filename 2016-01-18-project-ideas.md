@@ -10,6 +10,48 @@
 8. locly
 9. STRQ
 
+Location based games:
+Here is a list of all of the Location Based Games that I am aware of on Android. Thanks /u/wakamex for the ratings. If you know of more, please let me know:
+
+Ingress - 4.3/5 310,011 ratings - Capture "portals" and try to link them to other captured portals to create "fields" between the portals and defend them from the opposing faction. The portals decay over time.
+
+City Domination - 3.7/5 15,018 ratings - Create/join gangs and capture/upgrade territory and defend them from opposing gangs.
+
+Resources - 3.9/5 6,372 ratings - Build mines to gather resources to sell or use in upgrading buildings. Also, can interact (attack/repair) with other player's mines.
+
+The Great Land Grab - 3.6/5 1,275 ratings - Capture territories and defend them from opposing players
+
+Parallel Kingdom - 4.1/5 62,506 ratings - Build buildings to capture territory and defend it from opposing players. VERY heavy on micro-transactions.
+
+Parallel Mafia - 4.6/5 14,902 ratings - A futuristic version of Parallel Kingdom by the same creator. Also very heavy on micro-transactions.
+
+Turf Wars - 3.7/5 1,056 ratings - Capture turf and build it up to defend it against other players and attack them yourself.
+
+Claim Your Area - 2.5/5 201 ratings - Capture territories and defend them with men that you drop on the area.
+
+Skirmish - 3.4/5 163 ratings - Capture local businesses and defend them from other players.
+
+GPS Tycoon - 2.1/5 327 ratings - Capture territories and acquire resources from them to build them up.
+
+The Walk - 3.8/5 1,016 ratings - Fitness app that motivates you to walk more.
+
+Zombies, Run! - 4.3/5 7,820 ratings - Fitness app where you are literally on the run from Zombies. Thanks /u/xiontawa for the name correction.
+
+Itography - 4.2/5 27 ratings - Pick up in game items and drop them elsewhere. Try to get every item in a collection.
+
+Revenge of the Gang - 4.2/5 129 ratings - Capture territories and craft items to improve your attacks against enemy territories or defend your territories.
+
+Landlord - 4.4/5 926 ratings - Purchase local businesses and locations and earn in game money when people check in to them on Facebook or Foursquare. Thanks /u/bobbyzord
+
+Clandestine Anomaly - 3.7/5 219 reviews - Augmented reality game combined with tower defense. Thanks, /u/BigBreakfast.
+
+c:geo - 4.4/5 47,763 ratings - Geocaching app. Find physical caches of items hidden everywhere irl. Thanks, /u/Alaharon123 and /u/Dor5, I don't know how i missed this one.
+
+Life is Crime - (Defunct) - Capture local businesses and defend them from other players. Thanks, /u/SSynth for letting me know this is now no longer online.
+
+I used to really like the now defunct game Own This World which was a Risk like game where you passively dropped a unit on a territory every 30 seconds and could pick them up and use them in attacks on enemy territories or just sit on an enemy territory long enough until your units outnumbered theirs, giving you control. I was hoping to find another game like it of you guys know of any.
+
+
 
 
 ## City Exploration - Geolocation - Maps - apps - Data Visualization:
