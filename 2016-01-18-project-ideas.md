@@ -1,4 +1,12 @@
 ## Project Ideas
+## (19-04-2016) Location based gaming/creative experience platforms:
+1. Magellan project
+2. ARIS
+3. TaleBlazer
+4. ArcGIS??
+5. Echoes
+
+
 
 ## City Exploration - Geolocation - Maps - apps - Data Visualization:
 Questions: There are a host of apps for mapping/exploring city space. What's going on for non urban spaces?? 
