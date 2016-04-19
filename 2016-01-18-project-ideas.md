@@ -7,6 +7,7 @@
 5. Echoes
 6. Locast http://locast.mit.edu/
 7. Voicemap. https://voicemap.me/
+8. locly
 
 
 
