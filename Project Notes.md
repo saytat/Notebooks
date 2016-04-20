@@ -13,7 +13,7 @@
 
 ## (20-04-2016) Location based projects
 1. Unknown meetings at University of Florida
-	Unknown Meetings is a site-specific augmented reality project. Designed by new media artist Matt Roberts and poet Terri Witek for local transportation systems riders activate via smart phone both an “unknown” object moving over the actual landscape and an accompanying brief poetic audio file which considers such encounters. (http://mattroberts.info/2014/11/unknown-meetings/)
+	Unknown Meetings is a site-specific augmented reality project. Designed by new media artist Matt Roberts and poet Terri Witek for local transportation systems riders activate via smart phone both an “unknown” object moving over the actual landscape and an accompanying brief poetic audio file which considers such encounters. ([Link](http://mattroberts.info/2014/11/unknown-meetings/))
 2. 
 
 Location based games:
