@@ -1,5 +1,8 @@
 ## Project Ideas
 
+## Reserach questions:
+1. The potential of mobile devices (phone, tablet) for creating location based experiences. Mobile devices as authoring tool.
+
 ## (19-04-2016) Location based gaming/creative experience platforms:
 1. Magellan project
 2. ARIS
