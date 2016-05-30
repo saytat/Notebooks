@@ -6,3 +6,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 2. Swidnica - old town, huge wooden church
 3. Paczków - Polish Carcasonne
 4. Wambierzyce - beautiful small town
+5. st roch church bialystok - modernist church
