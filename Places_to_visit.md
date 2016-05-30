@@ -7,3 +7,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 3. Paczków - Polish Carcasonne
 4. Wambierzyce - beautiful small town
 5. st roch church bialystok - modernist church
+6. Otwock: http://culture.pl/en/article/a-guide-to-the-wooden-villas-of-otwock
