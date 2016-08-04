@@ -14,7 +14,9 @@
 3. Learn JavaScript:
 1.1. Read book
 1.2. Practice on Code Academy
-1.3. 
+
+4. Learn App, Web Design:
+1.1. 
 
 
 
